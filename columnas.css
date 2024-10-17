@@ -1,0 +1,21 @@
+nav{
+  background-color: #00b8a9; 
+  padding: 20px;
+  font-family: 'Courier New', Courier, monospace;
+
+}
+.columna{
+   
+    background: red;
+    color: aliceblue;
+    padding: 20px;
+    width: 25%;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.padre{ 
+    display: flex;
+}
+
